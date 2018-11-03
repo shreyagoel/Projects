@@ -1,0 +1,1 @@
+This folder includes the personal photographs captured by me (Shreya) that were published on the ColumbiaX website under the project of creating a marketing portal for Columbia University's online courses.
