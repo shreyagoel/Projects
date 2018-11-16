@@ -7,13 +7,13 @@ https://online.columbia.edu/
 
 **Role**: Market and Data Analyst
 
-Duration: February 2017 to May 2018
+**Duration**: February 2017 to May 2018
 
 **Technical Skills**: WordPress, HTML, DIVI Builder, Photoshop, Powerpoint, Excel, R
 
 **Other Skills**: Web Development/Design, Menu Design, Photography, QA Session, News Posts, Data Analytics, Reporting
 
-Responsibilities:
+**Responsibilities**:
 
 * Managed the development, design and updation of this website from scratch under the Vice Provosts for Teaching and Learning at CU.
 * **QA Session**: Designed QA session and managed to analyse the data collected from 48+ respondents who included Provosts, Directors, Managers, Employees and Interns of Columbia University for the improvement and final bug fixing of the website design over different browsers and devices.
