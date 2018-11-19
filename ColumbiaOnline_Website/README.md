@@ -9,9 +9,9 @@ https://online.columbia.edu/
 
 **Duration**: February 2017 to May 2018
 
-**Technical Skills**: WordPress, HTML, DIVI Builder, Photoshop, Powerpoint, Excel, R
+**Technical Skills**: WordPress, HTML, DIVI Builder, Photoshop, Powerpoint,  Data Analytics, Excel, R
 
-**Other Skills**: Web Development/Design, Menu Design, Photography, QA Session, News Posts, Data Analytics, Reporting
+**Other Skills**: Web Development/Design, Menu Design, Photography, QA Session, News Posts, Reporting
 
 **Responsibilities**:
 
