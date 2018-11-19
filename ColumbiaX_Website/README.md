@@ -2,24 +2,22 @@
 
 ColumbiaX: https://columbiax.columbia.edu/
 
-Org: Columbia University
+**Organisation**: Columbia University
 
-Dept: Office of the Vice Provost for Teaching and Learning
+**Dept**: Office of the Vice Provost for Teaching and Learning (Trustees of Columbia University)
 
-Role: Marketing Data Analyst
+**Role**: Market and Data Analyst
 
-Time: February 2017 to May 2018
+**Duration**: November 2017 to May 2018
 
-Launch Month: April 2018
+**Technical Skills**: WordPress, HTML, DIVI Builder, Photoshop, Powerpoint, Data Analytics, Excel, R
 
-Technical Skills: WordPress, HTML, DIVI Builder, Photoshop, Powerpoint, Excel
+**Other Skills**: Web Development/Design, Menu Design, Photography, News Posts
 
-Other Skills: Web Development/Design, Menu Design, Photography, News Posts
+### Responsibilities:
 
-Responsibilities:
-* Built the website from scratch with a completely new perspective of marketing the online MOOCs at Columbia University.
-* Managed the development, design and updation of this website under the Vice Provosts for Teaching and Learning since November 2017. 
-* Independently designed the entire website and recieved a 98% approval on design for implementation by the Trustees, Vice Provosts and Directors of Columbia University.
-* Published personal photography of COlumbia University done specially for this project. 
 
-Content: Major content of the web pages was taken from the columbia online website I (Shreya) created before. Image on home page, coursera page, edx page were clicked and edited by me (Shreya).
+* **Web Designing**: Built the website from scratch with a completely new perspective of marketing the online MOOCs at Columbia University. Managed the development, design and updation of this website under the Vice Provosts for Teaching and Learning since November 2017. Independently designed the entire website and recieved a 98% approval on design for implementation by the Trustees, Vice Provosts and Directors of Columbia University.
+* **Content**: Major content of the web pages was repurposed columbia online website I created earlier. Image on home page, coursera page, edx page were clicked and edited by me.
+* **Photography published**: Published personal photography of COlumbia University done specially for this project.
+* **Data Analytics***: Incorporated the feature of Google Analytics on personal suggestion to manage the web marketing better starting June 2017. Improved the web engagement by 80% over a period of 8 months by optimising the website using google analytics.
